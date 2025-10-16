@@ -7,7 +7,7 @@
 ![1760611489220](assets/README/1760611489220.png)
 
 ## 项目架构
-
+```
 STM32_Car
 │  README.md
 │  stm32引脚定义图.png
@@ -55,7 +55,7 @@ STM32_Car
     │      app.js                		// 与 MCU 蓝牙/串口通信 + 控制模型动作
     └─model
             sherioc_car.glb      	 // 小车 3D 模型（glTF 二进制）
-
+```
 
 ## 项目运行
 
